@@ -1,6 +1,6 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import { motion } from "framer-motion";
-import { Mail, ArrowRight, ArrowLeft, Key } from "lucide-react";
+import { Mail, ArrowLeft, Key } from "lucide-react";
 import { useNavigate } from "react-router-dom";
 
 const RecoveryIllustration = ({ primaryColor }) => (

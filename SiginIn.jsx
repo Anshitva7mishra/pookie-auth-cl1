@@ -1,9 +1,10 @@
 import React, { useState } from "react";
 import { motion } from "framer-motion";
-import { Mail, Lock, ArrowRight, Coffee } from "lucide-react";
+import { Mail, Lock, ArrowRight } from "lucide-react";
 import { useNavigate } from "react-router-dom";
 
 const LoginIllustration = ({ primaryColor }) => (
+
   <svg
     viewBox="0 0 400 300"
     className="w-full h-auto max-w-md mx-auto"
