@@ -3,9 +3,9 @@
 A modern React authentication application featuring **Login, Signup, and Forgot Password flows**, built using **React Router DOM**, **Framer Motion**, and **React Icons**.
 
 ---
-# Sleek_SignIn_SignUp
+# Pookie_Auth_Suite
 
-A **Sleek_SignIn_SignUp delivers a refined authentication experience with a clean layout, smooth animations, and intuitive interactions. Designed to feel fast and elegant. **
+A **Pookie_Auth_Suite is a secure and developer-friendly authentication system designed to keep user access smooth without compromising safety. It handles login, signup, role-based access, and session security seamlessly, so builders can focus on features—not auth headaches**
 
 
 ## 📦 Dependencies Installation (Required)
